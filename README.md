@@ -1,6 +1,6 @@
-# _Calculator_
+# _Celcius to Farenheit Converter_
 
-#### _Calculator Application, {June 3rd 2019}_
+#### _Converter Application, {June 3rd 2019}_
 
 #### By _**Erik Myers and Brendon Tse**_
 
